@@ -1,0 +1,22 @@
+/* nav{ */
+    /* background-color: red; */
+    /* display: flex;
+    justify-content: space-between;
+} */
+/* #child1{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    width: 500px;
+} */
+
+#nav{
+    height: 70px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#nav li{
+    font-size: 3rem;
+}
